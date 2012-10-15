@@ -1,3 +1,6 @@
+## Eagle Eye :: By Viss, with a lot of help from @achillean and others!
+## To run this you'll need the shodan module as well as gevent.
+
 # First things first, let's monkey patch Python to support greenthreads
 from gevent import monkey
 monkey.patch_all()
