@@ -1,6 +1,15 @@
 The EagleEye project
 By Viss!
 :::
+*** NOTICE***
+Paul R has done an epic job of taking my horrifically bad code and making it awesome
+His repository can be found here:
+
+https://github.com/PaulMcMillan/eagleeye_ce
+
+I'd strongly suggest using HIS code rather than mine at this point - its MUCH more robust, faster, etc.
+
+****</notice***
 
 So I've done a bunch of research in the last couple years
 about finding silly things on the internet and part of those
