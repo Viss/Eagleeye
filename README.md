@@ -6,7 +6,9 @@ Update: April 10, 2013:
 I've included my generic 'shodan turk' script. 
 It's a fairly simple tool that will allow you to point it
 at shodan, search for something, then 'do something' with
-the results.
+the results. I've also added the 'img' directory, with some
+very simple html files for a gallery, so results can be 
+viewed much easier. X11 forwarding is very slow.
 Please enjoy!
 
 *** NOTICE***
