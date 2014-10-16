@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 ## Eagle Eye :: By Viss, with a lot of help from @achillean and others!
 ## To run this you'll need the shodan module as well as gevent.
 
